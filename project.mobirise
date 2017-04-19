@@ -25,7 +25,7 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 1
+    "uniqCompNum": 4
   },
   "pages": {
     "index.html": {
@@ -65,7 +65,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/scan-41-2000x2665.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-olvut7pvi31w6i36eo1-2000x2000.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -105,8 +105,8 @@
           "_inherit": "gallery1",
           "_name": "gallery4",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Illustration ",
@@ -279,17 +279,102 @@
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "index-gallery4-0",
           "articleLayout": false,
           "allItem": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#cccccc",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Performance</span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/17835048-10210852718928343-6315489771480142031-o-1400x2058.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<b>\"Pygmalion\" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><i>Performance/installatie</i><br><b>&nbsp;</b><br><span style=\"line-height: 1.5;\">We walsen over de grens van fictie en realiteit.&nbsp;</span><span style=\"line-height: 1.5;\"><br></span>Beeldhouwen we ons eigen ideologisch individu?<span style=\"line-height: 1.5;\">&nbsp;Of is dit allemaal echt? Bestaat onze perfecte minnaar door middel van onze eigen scheppingskracht? Kunnen we verliefd worden op een stem?</span><br>Ontkracht je de scheppingskracht door lijfelijkheid of versterk dit het geheel?&nbsp;<br><br>De installatie, een levensgrote zwarte box van zwart textiel in contrast met metalen spiegelplaten. Is het middelpunt van de vervreemdende ruimte. Bij deze performance word de bezoeker in een één op één performance, geconfronteerd met een individu die zijn karakter opbouwt aan de hand van antwoorden tijdens een conversatie. Doormiddel van spiegeling creeërd de bezoeker zijn ideaal maakbaar persoon. Zal lijfelijkheid de ideologie teniet doen of versterken? Willen we een gezicht zien, of geloven in onze leugen? &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -449,7 +534,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>- Illustratie vrije beeldende kunsten Sint-Lucas School Of Art Gent.</p><p>- Lid van collectief \"Zwermkat\".</p>",
+          "text1": "<p>- Illustratie vrije beeldende kunsten Sint-Lucas School Of Art Gent.</p><p>- Lid van collectief \"Zwermkat\".</p><p><br></p><p>Installatie, schrijven, performance, illustratie.</p><p>Wat ik in eerste instantie ben, buiten een mens zoals wij allemaal, is een verteller.</p><p>Mijn medium staat ten dienste van het geen ik wil vertellen, en misschien denkt u bij het zien van deze vier meduims \"schoenmaker blijf bij u leest\". Dan moet ik u helaas mededelen dat ik mijn leest nooit heb verlaten. Het ene sluit het andere in mijn geval niet uit, het kan net bestaan door elkaar. Wat ik in beeld net niet kwijt kan, vind wel zijn pad in beeld en omgekeerd. Wat ik op papier niet vertellen kan, vind zijn weg in de ruimte. Net door mijn ruimtelijk werk installatie/performance, snap ik de lijfelijkheid, tijd en ruimte beter die ik in mijn 2D werk nodig heb en visaversa.&nbsp;</p><p><br></p>",
           "text2": ""
         },
         {
