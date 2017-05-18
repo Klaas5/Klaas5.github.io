@@ -322,6 +322,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-1",
           "_params": {
             "imageSize": 50,
@@ -368,13 +374,7 @@
           },
           "title": "",
           "text": "<b>\"Pygmalion\" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><i>Performance/installatie</i><br><b>&nbsp;</b><br><span style=\"line-height: 1.5;\">We walsen over de grens van fictie en realiteit.&nbsp;</span><span style=\"line-height: 1.5;\"><br></span>Beeldhouwen we ons eigen ideologisch individu?<span style=\"line-height: 1.5;\">&nbsp;Of is dit allemaal echt? Bestaat onze perfecte minnaar door middel van onze eigen scheppingskracht? Kunnen we verliefd worden op een stem?</span><br>Ontkracht je de scheppingskracht door lijfelijkheid of versterk dit het geheel?&nbsp;<br><br>De installatie, een levensgrote zwarte box van zwart textiel in contrast met metalen spiegelplaten. Is het middelpunt van de vervreemdende ruimte. Bij deze performance word de bezoeker in een één op één performance, geconfronteerd met een individu die zijn karakter opbouwt aan de hand van antwoorden tijdens een conversatie. Doormiddel van spiegeling creeërd de bezoeker zijn ideaal maakbaar persoon. Zal lijfelijkheid de ideologie teniet doen of versterken? Willen we een gezicht zien, of geloven in onze leugen? &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-size": "17px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
